@@ -100,6 +100,7 @@ public class UdpActivity extends AppCompatActivity implements View.OnClickListen
 
     @Override
     protected void onDestroy() {
+        mSocket.close();
         stopService(serverIntent);
         super.onDestroy();
     }

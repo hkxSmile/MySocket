@@ -33,6 +33,14 @@ public class UdpServer extends Service {
         new Thread(new MsgClass()).start();
     }
 
+    @Override
+    public void onDestroy() {
+        if (socket != null) {
+            socket.close();
+        }
+        super.onDestroy();
+    }
+
     class MsgClass implements Runnable {
 
         @Override

@@ -7,7 +7,7 @@
         jumboMode="true"
         optimize="true"
         revision="24.0.0"
-        sha1="f56c3c62c7203272d20591b6ea388ea5ad847b11">
+        sha1="d431cf335b542279bab304f4205424c125cc9824">
         <dex dex="/Users/hkxlegend/GitMe/NetProjects/MySocket/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_a5440fc2f4b44cf6134e0351d7c86a5ae81c4a49/classes.dex" />
     </item>
     <item
@@ -133,7 +133,7 @@
         jumboMode="true"
         optimize="true"
         revision="24.0.0"
-        sha1="c62f190e09ad372f130a5710884acb1a8d5a6e9a">
+        sha1="a52832f35a1bd400b60456da7c480cd7b46bf2cd">
         <dex dex="/Users/hkxlegend/GitMe/NetProjects/MySocket/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_4203ec6c54ef236da2e6575e790ef2852b031dc6/classes.dex" />
     </item>
     <item

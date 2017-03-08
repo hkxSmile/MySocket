@@ -5,6 +5,8 @@ import android.text.TextUtils;
 import java.util.regex.Pattern;
 
 /**
+ * 模拟词库
+ *
  * @author huangkexiang
  * @since 17/3/3
  */
@@ -67,22 +69,6 @@ public class MsgUtil {
             case "你是谁":
                 msg = "我叫小p 嘿嘿";
                 break;
-//            case "你好":
-//                msg = "您好";
-//                break;
-//            case "你好":
-//                msg = "您好";
-//                break;
-//            case "你好":
-//                msg = "您好";
-//                break;
-//            case "你好":
-//                msg = "您好";
-//                break;
-//            case "你好":
-//                msg = "您好";
-//                break;
-
         }
 
         return msg;

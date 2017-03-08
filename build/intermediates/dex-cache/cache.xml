@@ -3,102 +3,111 @@
 
     <item
         is-multidex="true"
-        jar="/Users/hkxlegend/workspace/android/NetProjects/MySocket/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jar="/Users/hkxlegend/GitMe/NetProjects/MySocket/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.0"
-        sha1="867dad63c33388ff8c7644b236579355036d075f">
-        <dex dex="/Users/hkxlegend/workspace/android/NetProjects/MySocket/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_9aeb8a646e549763d72a5eb2663b7c5008a16809/classes.dex" />
+        sha1="f56c3c62c7203272d20591b6ea388ea5ad847b11">
+        <dex dex="/Users/hkxlegend/GitMe/NetProjects/MySocket/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_a5440fc2f4b44cf6134e0351d7c86a5ae81c4a49/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/Users/hkxlegend/workspace/android/NetProjects/MySocket/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.0"
-        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
-        <dex dex="/Users/hkxlegend/workspace/android/NetProjects/MySocket/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-24.2.1_f3e36a8b2ce692c15dd0ac02f79de95728b64732/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/hkxlegend/workspace/android/NetProjects/MySocket/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.0"
-        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
-        <dex dex="/Users/hkxlegend/workspace/android/NetProjects/MySocket/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_9b6bf3c46b0078d61bd10c92b3c4bf346b98f53e/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/hkxlegend/workspace/android/NetProjects/MySocket/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/libs/internal_impl-24.2.1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.0"
-        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
-        <dex dex="/Users/hkxlegend/workspace/android/NetProjects/MySocket/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_147947afa7724299485f92fcb890d3a4a26b4286/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/hkxlegend/workspace/android/NetProjects/MySocket/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.0"
-        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
-        <dex dex="/Users/hkxlegend/workspace/android/NetProjects/MySocket/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.2.1_baf529a2e483a5378bf15e58ffd27d7a61a32fb6/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/hkxlegend/workspace/android/NetProjects/MySocket/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.1/jars/classes.jar"
+        jar="/Users/hkxlegend/GitMe/NetProjects/MySocket/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.1/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.0"
         sha1="d5c731fc64c03dfe04d51134955b483551c35849">
-        <dex dex="/Users/hkxlegend/workspace/android/NetProjects/MySocket/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-24.2.1_11a63cfef97ebbd4b6729d35b43a083de65dc5d0/classes.dex" />
+        <dex dex="/Users/hkxlegend/GitMe/NetProjects/MySocket/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-24.2.1_73c4f1f62b1b8c5fff91d14bc0b471ac6e42f97b/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/Users/hkxlegend/workspace/android/NetProjects/MySocket/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jar="/Users/hkxlegend/GitMe/NetProjects/MySocket/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.1/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.0"
-        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
-        <dex dex="/Users/hkxlegend/workspace/android/NetProjects/MySocket/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_fd9a8ba192e5770e52a0f63d79c1455d3f66ebbc/classes.dex" />
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="/Users/hkxlegend/GitMe/NetProjects/MySocket/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-24.2.1_9becd32c4e0e140664bb14476b6032adc4976be3/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/Users/hkxlegend/workspace/android/NetProjects/MySocket/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.0"
-        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
-        <dex dex="/Users/hkxlegend/workspace/android/NetProjects/MySocket/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-24.2.1_67847fcb1ef24ecd110471f424e6d6caa91f592e/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/hkxlegend/workspace/android/NetProjects/MySocket/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/classes.jar"
+        jar="/Users/hkxlegend/GitMe/NetProjects/MySocket/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.0"
         sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
-        <dex dex="/Users/hkxlegend/workspace/android/NetProjects/MySocket/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-24.2.1_e37da1a3d6e10268be9c7605b1f553ff28bbe818/classes.dex" />
+        <dex dex="/Users/hkxlegend/GitMe/NetProjects/MySocket/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-24.2.1_aebaaf88ee3df9f56f1e04b0b9979b161e56b7be/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/Users/hkxlegend/workspace/android/NetProjects/MySocket/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jar="/Users/hkxlegend/GitMe/NetProjects/MySocket/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.0"
-        sha1="2344a69347714404f73321c68bf7eeedf0e43da6">
-        <dex dex="/Users/hkxlegend/workspace/android/NetProjects/MySocket/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_747a43687e75fc0ace4f81d05d2f99bcaaf1eaed/classes.dex" />
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="/Users/hkxlegend/GitMe/NetProjects/MySocket/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-24.2.1_e723146c42a413ea29dab993a960adf3e26de7be/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/Users/hkxlegend/workspace/android/NetProjects/MySocket/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jar="/Users/hkxlegend/GitMe/NetProjects/MySocket/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.0"
-        sha1="d6667509abac6d2250cfa7eec44a52b2ad22de76">
-        <dex dex="/Users/hkxlegend/workspace/android/NetProjects/MySocket/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_ccd483a8f54a3886605c2f0bbb7aedf675b1a369/classes.dex" />
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="/Users/hkxlegend/GitMe/NetProjects/MySocket/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-24.2.1_19f1360d812439a8f796c8a478da83fd194eb1b3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/hkxlegend/GitMe/NetProjects/MySocket/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/hkxlegend/GitMe/NetProjects/MySocket/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.2.1_85cffdec4f9377315fdeacf557b6383cea8ce1a8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/hkxlegend/GitMe/NetProjects/MySocket/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="/Users/hkxlegend/GitMe/NetProjects/MySocket/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_809cfff746301ea7329930392cfbda33b11cd230/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/hkxlegend/GitMe/NetProjects/MySocket/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="/Users/hkxlegend/GitMe/NetProjects/MySocket/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_412ed869c4f34b8619e11b6081535aaa7aed7aa0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/hkxlegend/GitMe/NetProjects/MySocket/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="/Users/hkxlegend/GitMe/NetProjects/MySocket/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_898896ebbfafdae69a11fd1a60840861c6f6a208/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/hkxlegend/GitMe/NetProjects/MySocket/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="/Users/hkxlegend/GitMe/NetProjects/MySocket/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-24.2.1_ff1e058cba418212c25148a180cf3a82ec7051f7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/hkxlegend/GitMe/NetProjects/MySocket/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="/Users/hkxlegend/GitMe/NetProjects/MySocket/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-24.2.1_93495558238e7030ef69b9bc9f7d33b00659d2aa/classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -107,52 +116,43 @@
         optimize="true"
         revision="24.0.0"
         sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
-        <dex dex="/Users/hkxlegend/workspace/android/NetProjects/MySocket/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.2.1_8ac4dd1adfb76be78f219d6ed67ca28099d206d5/classes.dex" />
+        <dex dex="/Users/hkxlegend/GitMe/NetProjects/MySocket/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.2.1_8ac4dd1adfb76be78f219d6ed67ca28099d206d5/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/Users/hkxlegend/workspace/android/NetProjects/MySocket/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/jars/classes.jar"
+        jar="/Users/hkxlegend/GitMe/NetProjects/MySocket/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/libs/internal_impl-24.2.1.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.0"
-        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
-        <dex dex="/Users/hkxlegend/workspace/android/NetProjects/MySocket/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-24.2.1_6879c18167865141724e32800e64ac11cd44ec2e/classes.dex" />
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="/Users/hkxlegend/GitMe/NetProjects/MySocket/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_bc93b17b8f4d5c89d5e7432ec5556fcbc51357f7/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/Users/hkxlegend/workspace/android/NetProjects/MySocket/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/classes.jar"
+        jar="/Users/hkxlegend/GitMe/NetProjects/MySocket/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.0"
-        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
-        <dex dex="/Users/hkxlegend/workspace/android/NetProjects/MySocket/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-24.2.1_0124b6aa3ce5346fc5a6d7a7e7a6fe2401a36723/classes.dex" />
+        sha1="c62f190e09ad372f130a5710884acb1a8d5a6e9a">
+        <dex dex="/Users/hkxlegend/GitMe/NetProjects/MySocket/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_4203ec6c54ef236da2e6575e790ef2852b031dc6/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/Users/hkxlegend/workspace/android/NetProjects/MySocket/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jar="/Users/hkxlegend/GitMe/NetProjects/MySocket/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.0"
-        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
-        <dex dex="/Users/hkxlegend/workspace/android/NetProjects/MySocket/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_02e19c1ce9f24487dab2bd4c75f2f97745e2a59a/classes.dex" />
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="/Users/hkxlegend/GitMe/NetProjects/MySocket/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-24.2.1_cb8e04f16d9576b4455769deb4f852fee0626f6d/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/Users/hkxlegend/workspace/android/NetProjects/MySocket/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.1/jars/classes.jar"
+        jar="/Users/hkxlegend/GitMe/NetProjects/MySocket/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.0"
-        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
-        <dex dex="/Users/hkxlegend/workspace/android/NetProjects/MySocket/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-24.2.1_f7153398ea7fc4177a02c7c7fbd4ccb863da49ac/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/hkxlegend/workspace/android/NetProjects/MySocket/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.0"
-        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
-        <dex dex="/Users/hkxlegend/workspace/android/NetProjects/MySocket/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-24.2.1_c4992d2d31ff2438fb4cb24a868fdd260ab40e35/classes.dex" />
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="/Users/hkxlegend/GitMe/NetProjects/MySocket/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_3530245cf3251ec4f8f060b8178ddd001f8ec777/classes.dex" />
     </item>
 
 </items>
